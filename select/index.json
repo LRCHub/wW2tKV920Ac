@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Nadir",
+  "base_artist": "Orangestar",
+  "createdAt": "2026-02-23T07:14:12.263002Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Nadir",
+      "artist": "Tender",
+      "has_synced": false,
+      "path": "select/01_Nadir_Tender.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Nadir",
+      "artist": "Fiersa Besari",
+      "has_synced": true,
+      "path": "select/02_Nadir_Fiersa_Besari.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Prietena ta (feat. Nadir & Uddi)",
+      "artist": "Randi",
+      "has_synced": true,
+      "path": "select/03_Prietena_ta_(feat._Nadir_&_Uddi)_Randi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Te iubesc (feat. Nadir)",
+      "artist": "Loredana feat. Nadir",
+      "has_synced": true,
+      "path": "select/04_Te_iubesc_(feat._Nadir)_Loredana_feat._Nadir.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Te iubesc (feat. Nadir)",
+      "artist": "Loredana",
+      "has_synced": true,
+      "path": "select/05_Te_iubesc_(feat._Nadir)_Loredana.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Prietena ta (cu Nadir și Uddi)",
+      "artist": "Randi",
+      "has_synced": true,
+      "path": "select/06_Prietena_ta_(cu_Nadir_și_Uddi)_Randi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Nadir Paare Uthchhe Dhonya",
+      "artist": "R.D. Burman",
+      "has_synced": false,
+      "path": "select/07_Nadir_Paare_Uthchhe_Dhonya_R.D._Burman.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Te iubesc (feat. Nadir)",
+      "artist": "Loredana",
+      "has_synced": true,
+      "path": "select/08_Te_iubesc_(feat._Nadir)_Loredana.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Nadir",
+      "artist": "Orangestar",
+      "has_synced": true,
+      "path": "select/09_Nadir_Orangestar.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Nadir",
+      "artist": "Marianas Rest",
+      "has_synced": false,
+      "path": "select/10_Nadir_Marianas_Rest.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Nadir Dhinna",
+      "artist": "Rashid Ali, Thibhara",
+      "has_synced": true,
+      "path": "select/11_Nadir_Dhinna_Rashid_Ali,_Thibhara.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Nadir",
+      "artist": "Zeballos",
+      "has_synced": true,
+      "path": "select/12_Nadir_Zeballos.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Leaving Nadir",
+      "artist": "Witchfynde (UK)",
+      "has_synced": false,
+      "path": "select/13_Leaving_Nadir_Witchfynde_(UK).txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "NADİR (Sen Biraz Tehlikelisin)",
+      "artist": "Ahmet Balcı",
+      "has_synced": false,
+      "path": "select/14_NADİR_(Sen_Biraz_Tehlikelisin)_Ahmet_Balcı.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "DawDaw (feat. Cheb Nadir, Blanka, Sky & DJ La Mèche)",
+      "artist": "Tiiwtiiw",
+      "has_synced": true,
+      "path": "select/15_DawDaw_(feat._Cheb_Nadir,_Blanka,_Sky_&_DJ_La_Mèche)_Tiiwtiiw.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Nadir",
+      "artist": "Orangestar",
+      "has_synced": false,
+      "path": "select/pl_01_Nadir_Orangestar.txt"
+    }
+  ]
+}
